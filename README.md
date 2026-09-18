@@ -14,21 +14,6 @@ The goal of this project is to demonstrate a **correct, inspectable, and evaluab
 
 ---
 
-## 📂 Public GitHub Repository
-
-- **Repo:** https://github.com/AGBhartariya/mini-rag
-
----
-
-## 👤 Author
-
-**Abhigyan Gopal Bhartariya**  
-- **Resume:** https://drive.google.com/file/d/1fm0_bcoCFBMJHN_7Y5qhN1a1EOVA3Plp/view?usp=drive_link  
-- **GitHub:** https://github.com/AGBhartariya  
-- **LinkedIn:** https://www.linkedin.com/in/abhigyan-bhartariya-73267928a/
-
----
-
 ## 🧠 What This System Does
 
 1. Accepts **raw text or PDF uploads**
